@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mingyue Zhao \n (赵明月)"
-description              : "Ph.D. student in University of Science and Techonology of China (USTC), focusing on algorithm fairness in medical image analysis."
+description              : "Ph.D. student in University of Science and Techonology of China (USTC), focusing on tubular structure segmentation in medical image analysis."
 repository               : "MorineZ/MorineZ.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=TxjqAY0AAAAJ&hl"
-  email            : "zikangxu@mail.ustc.edu.cn"
+  email            : "my_zhao163126@163.com"
   researchgate     : #"https://www.researchgate.net/profile/Heqin-Zhu-2"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "XuZikang"
+  github           : "ZhaoMingyue"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-6615-4510"
+  orcid            : "https://orcid.org/0000-0001-8373-5974"  
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
