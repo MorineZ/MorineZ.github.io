@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zikang Xu \n (徐梓康)"
+title                    : "Mingyue Zhao \n (赵明月)"
 description              : "Ph.D. student in University of Science and Techonology of China (USTC), focusing on algorithm fairness in medical image analysis."
 repository               : "MorineZ/MorineZ.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Zikang Xu (徐梓康)"
+  name             : "Mingyue Zhao (赵明月)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "University of Science and Techonology of China"
   location         : "Suzhou, China"
