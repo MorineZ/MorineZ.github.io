@@ -19,8 +19,8 @@ redirect_from:
 # 😊 About Me
 
 - I am a fourth-year Ph.D candidate at School of Biomedical Engineering, University of Science and Technology of China ([USTC](http://bme.ustc.edu.cn/)), supervised by Prof. [S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html).
-- I received my bachelor degree and master degree (Supervisor: [Zhongze Gu](https://bme.seu.edu.cn/2011/1017/c463a12264/page.psp)) from Southeast University ([SEU](https://www.seu.edu.cn)) in 2018 and 2021, respectively.
-- My research interests mainly focus on **algorithm fairness** and trustworthy in medical image analysis.
+- I received my bachelor degree and master degree from Shandong University ([SDU](https://www.sdu.edu.cn)) and Tianjin University ([TJU](https://www.tju.edu.cn)) in 2018 and 2021, respectively.
+- My research interests mainly focus on **Medical tubular structure segmentation**.
 
 # 🔥 News
 
