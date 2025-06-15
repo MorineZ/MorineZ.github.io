@@ -24,52 +24,35 @@ redirect_from:
 
 # 🔥 News
 
-<!-- - <span style="color:red;">I am seeking for postdoctoral positions in the field of medical image analysis starting in fall 2025. If you have interest in my research, please feel free to contact me</span>. -->
-- *2025.06*: &nbsp; One paper accepted to medical image analysis.
-- *2025.04*: &nbsp; One paper accepted to npj Digital Medicine.
-- *2025.03*: &nbsp; One paper accepted to MIDL-2025 `<span style="color:red;">`(Oral).
+<!-- - <span style="color:red;">I am seeking for postdoctoral positions in the field of medical image analysis starting in winter 2025. If you have interest in my research, please feel free to contact me</span>. -->
+- *2025.06*: &nbsp; One paper accepted to Medical Image Analysis.
+- *2025.06*: &nbsp; One paper accepted to Radiology Artificial Intelligence.
+- *2024.12*: &nbsp; One paper accepted to ISBI-2025.
+- *2024.10*: &nbsp; One paper accepted to MICCAI-2025.
 - *2024.10*: &nbsp; One paper accepted to npj Digital Medicine.
-- *2024.09*: &nbsp; One paper accepted to NeurIPS-24.
-- *2024.05*: &nbsp; One paper accepted to MICCAI-24.
-- *2023.02*: &nbsp; Two papers accepted to MIDL-24.
-- *2023.05*: &nbsp; One paper accepted to MICCAI-23.
+
 
 # 📝 Publications
 
 (Selected publications, `*` indicates equal contribution and ✉️ represents corresponding author.)
 
-### Algorithm Fairness
+### COPD Diagnosis
 
-- `npj Digit. Med 2025` [Fair ultrasound diagnosis via adversarial protected attribute aware perturbations on latent embeddings](https://www.nature.com/articles/s41746-025-01641-y)**Zikang Xu**, Fenghe Tang, Quan Quan, Qingsong Yao, Qingpeng Kong, Jianrui Ding, Chunping Ning, S. Kevin Zhou✉️ &nbsp;&nbsp;[![](https://img.shields.io/github/stars/XuZikang/APPLE.svg?label=Stars&style=social)](https://github.com/XuZikang/APPLE)[[code](https://github.com/XuZikang/APPLE)][[Nature](https://www.nature.com/articles/s41746-025-01641-y)]
-- `npj Digit. Med. 2024` [Addressing Fairness Issues in Deep Learning-Based Medical Image Analysis: A Systematic Review](https://www.nature.com/articles/s41746-024-01276-5)**Zikang Xu**, Jun Li, Qingsong Yao, Han Li, Mingyue Zhao, and S. Kevin Zhou✉️&nbsp;&nbsp;[![](https://img.shields.io/github/stars/XuZikang/FairAdaBN.svg?label=Stars&style=social)](https://github.com/XuZikang/Awesome-MedIA-Fairness)[[code](https://github.com/XuZikang/Awesome-MedIA-Fairness)][[Nature](https://www.nature.com/articles/s41746-024-01276-5)]
-- `NeurIPS 2024` [FairMedFM: Fairness Benchmarking for Medical Imaging Foundation Models](https://openreview.net/forum?id=CyrKKKN3fs&referrer=%5Bthe%20profile%20of%20Yuan%20Zhong%5D(%2Fprofile%3Fid%3D~Yuan_Zhong5))**Ruinan Jin\***, **Zikang Xu\***, **Yuan Zhong\***, Qingsong Yao, Qi Dou✉️, S. Kevin Zhou✉️, Xiaoxiao Li✉️&nbsp;&nbsp;[![](https://img.shields.io/github/stars/FairMedFM/FairMedFM.svg?label=Stars&style=social)](https://github.com/FairMedFM/FairMedFM)[[code](https://github.com/FairMedFM/FairMedFM)][[OpenReview](https://openreview.net/forum?id=CyrKKKN3fs&referrer=%5Bthe%20profile%20of%20Yuan%20Zhong%5D(%2Fprofile%3Fid%3D~Yuan_Zhong5))]
-- `MICCAI 2023` [FairAdaBN: Mitigating unfairness with adaptive batch normalization and its application to dermatological disease classification](https://arxiv.org/pdf/2303.08325)**Zikang Xu**, Shang Zhao, Quan Quan, Qingsong Yao, S. Kevin Zhou✉️&nbsp;&nbsp;[![](https://img.shields.io/github/stars/XuZikang/Awesome-MedIA-Fairness.svg?label=Stars&style=social)](https://github.com/XuZikang/FairAdaBN)[[code](https://github.com/XuZikang/FairAdaBN)][[Springer](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_29)]
-- `arXiv 2023` [Inspecting Model Fairness in Ultrasound Segmentation Tasks](https://arxiv.org/abs/2312.02501)
-  **Zikang Xu**, Fenghe Tang, Quan Quan, Jianrui Ding, Chunping Ning, S. Kevin Zhou✉️ &nbsp;&nbsp;[[arXiv](https://arxiv.org/abs/2312.02501)]
+- `MICCAI 2024` [Hierarchical multiple instance learning for COPD grading with relatively specific similarity](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_50)Hao Zhang, **Mingyue Zhao**,  Mingzhu Liu, Jiejun Luo, Yu Guan, Jin Zhang, Yi Xia, Di Zhang, Xiuxiu Zhou, Li Fan, Shiyuan Liu, S. Kevin Zhou✉️ &nbsp;&nbsp;[[Springer](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_50)]
+- `Radiology: Artificial Intelligence` [Single Inspiratory Chest CT-based Generative Deep Learning Models to Evaluate Functional Small Airway Disease](https://openreview.net/pdf?id=8245ExLB4I)
+  **Di Zhang\***, **Mingyue Zhao\***, Qingsong Yao, Yiyong Sun, S. Kevin Zhou✉️ &nbsp;&nbsp;[[OpenReview](https://openreview.net/pdf?id=8245ExLB4I)]
 
-### Landmark Detection
+### Medical Tubular Structure Segmentation
 
-- `MICCAI 2024` [SIX-Net: Spatial-Context Information miX-up for Electrode Landmark Detection `<span style="color:red;">`(Early Accept)](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_32)Xinyi Wang, **Zikang Xu**, Heqin Zhu, Qingsong Yao, Yiyong Sun, S. Kevin Zhou✉️ &nbsp;&nbsp;[[Springer](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_32)]
-- `MIDL 2024` [OFELIA: Optical Flow-based Electrode LocalIzAtion](https://openreview.net/pdf?id=8245ExLB4I)
-  Xinyi Wang, **Zikang Xu**, Qingsong Yao, Yiyong Sun, S. Kevin Zhou✉️ &nbsp;&nbsp;[[OpenReview](https://openreview.net/pdf?id=8245ExLB4I)]
-
-### Medical Image Segmentation
-
-- `Med. Image Anal. 2024` [LACOSTE: Exploiting stereo and temporal contexts for surgical instrument segmentation](https://www.sciencedirect.com/science/article/pii/S0956566322008120)Qiyuan Wang, Shang Zhao, **Zikang Xu**, S. Kevin Zhou✉️ &nbsp;&nbsp;[[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0956566322008120)]
-- `MIDL 2024` [Slide-SAM: Medical SAM Meets Sliding Window `<span style="color:red;">`(Oral)](https://openreview.net/forum?id=LNdU9RTv3L&referrer=%5Bthe%20profile%20of%20Fenghe%20Tang%5D(%2Fprofile%3Fid%3D~Fenghe_Tang1))
-  Quan Quan\*, Fenghe Tang\*, **Zikang Xu**, Heqin Zhu, S. Kevin Zhou✉️ &nbsp;&nbsp;[![](https://img.shields.io/github/stars/Curli-quan/Slide-SAM.svg?label=Stars&style=social)](https://github.com/Curli-quan/Slide-SAM)[[code](https://github.com/Curli-quan/Slide-SAM)][[arXiv](https://arxiv.org/abs/2311.10121v3)]
-
-### MISC
-
-- `MIDL 2025` [Style-Aligned Image Composition for Robust Detection of Abnormal Cells in Cytopathology `<span style="color:red;">`(Oral)](https://openreview.net/forum?id=VQrbxORlvv#discussion))
-  Qiuyi Qi\*, Xin Li\*, Ming Kong, Zikang Xu, Bingdi Chen, Qiang Zhu✉️, S Kevin Zhou✉️ &nbsp;&nbsp;[![](https://img.shields.io/github/stars/Joey-Qi/SAIC.svg?label=Stars&style=social)](https://github.com/Joey-Qi/SAIC)[[code](https://github.com/Curli-quan/Slide-SAM)][[OpenReview](https://openreview.net/pdf?id=VQrbxORlvv)]
+- `Med. Image Anal. 2025` [Skeleton2Mask: Skeleton-Supervised Airway Segmentation](https://www.sciencedirect.com/science/article/pii/S0956566322008120)**Mingyue Zhao**, Han Li, Di Zhang, Xiuxiu Zhou, Li Fan, Xiaolan Qiu, Shiyuan Liu, S. Kevin Zhou✉️ &nbsp;&nbsp;[[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0956566322008120)]
+- `ISBI 2025` [ExpTopo:Explicit Topological Modeling for Bronchus Segmentation](https://ieeexplore.ieee.org/document/10980891)**Mingyue Zhao**, Xiaolan Qiu, S. Kevin Zhou✉️ &nbsp;&nbsp;[[IEEE](https://ieeexplore.ieee.org/document/10980891)]
 
 # 🎖 Honors and Awards
 
 - *2025*: Outstanding Graduate of Anhui Province
 - *2025*: Outstanding Graduate of the University of Science and Technology of China (USTC)
-- *2021, 2023, 2024*: Academic First Class Scholarship in USTC
-- *2022*: Academic Second Class Scholarship in USTC
+- *2022, 2023, 2024*: Academic First Class Scholarship in USTC
+- *2021*: Academic Second Class Scholarship in USTC
 - *2021*: Suzhou Industrial Park Scholarship
 
 # 📖 Educations
