@@ -28,8 +28,7 @@ redirect_from:
 - *2025.06*: &nbsp; One paper accepted to Medical Image Analysis.
 - *2025.06*: &nbsp; One paper accepted to Radiology Artificial Intelligence.
 - *2024.12*: &nbsp; One paper accepted to ISBI-2025.
-- *2024.10*: &nbsp; One paper accepted to MICCAI-2024.
-- *2024.10*: &nbsp; One paper accepted to MICCAI-2024.
+- *2024.10*: &nbsp; Two papers accepted to MICCAI-2024.
 - *2024.10*: &nbsp; One paper accepted to npj Digital Medicine.
 
 
