@@ -40,12 +40,16 @@ redirect_from:
 
 - `MICCAI 2024` [Hierarchical multiple instance learning for COPD grading with relatively specific similarity](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_50)Hao Zhang, **Mingyue Zhao**,  Mingzhu Liu, Jiejun Luo, Yu Guan, Jin Zhang, Yi Xia, Di Zhang, Xiuxiu Zhou, Li Fan, Shiyuan Liu, S. Kevin Zhou✉️ &nbsp;&nbsp;[[Springer](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_50)]
 - `Radiology: Artificial Intelligence` [Single Inspiratory Chest CT-based Generative Deep Learning Models to Evaluate Functional Small Airway Disease](https://openreview.net/pdf?id=8245ExLB4I)
-  **Di Zhang\***, **Mingyue Zhao\***, Qingsong Yao, Yiyong Sun, S. Kevin Zhou✉️ &nbsp;&nbsp;[[OpenReview](https://openreview.net/pdf?id=8245ExLB4I)]
+  **Di Zhang\***, **Mingyue Zhao\***, Li Fan, S. Kevin Zhou, Shiyuan Liu✉️ &nbsp;&nbsp;[[OpenReview](https://openreview.net/pdf?id=8245ExLB4I)]
 
 ### Medical Tubular Structure Segmentation
 
 - `Med. Image Anal. 2025` [Skeleton2Mask: Skeleton-Supervised Airway Segmentation](https://www.sciencedirect.com/science/article/pii/S0956566322008120)**Mingyue Zhao**, Han Li, Di Zhang, Xiuxiu Zhou, Li Fan, Xiaolan Qiu, Shiyuan Liu, S. Kevin Zhou✉️ &nbsp;&nbsp;[[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0956566322008120)]
 - `ISBI 2025` [ExpTopo:Explicit Topological Modeling for Bronchus Segmentation](https://ieeexplore.ieee.org/document/10980891)**Mingyue Zhao**, Xiaolan Qiu, S. Kevin Zhou✉️ &nbsp;&nbsp;[[IEEE](https://ieeexplore.ieee.org/document/10980891)]
+
+### Algorithm Fairness
+
+- `npj Digit. Med. 2024` [Addressing Fairness Issues in Deep Learning-Based Medical Image Analysis: A Systematic Review](https://www.nature.com/articles/s41746-024-01276-5)Zikang Xu, Jun Li, Qingsong Yao, Han Li, **Mingyue Zhao**, and S. Kevin Zhou✉️ &nbsp;&nbsp;[![](https://img.shields.io/github/stars/XuZikang/FairAdaBN.svg?label=Stars&style=social)](https://github.com/XuZikang/Awesome-MedIA-Fairness)[[code](https://github.com/XuZikang/Awesome-MedIA-Fairness)][[Nature](https://www.nature.com/articles/s41746-024-01276-5)]
 
 # 🎖 Honors and Awards
 
@@ -57,34 +61,22 @@ redirect_from:
 
 # 📖 Educations
 
-- *2021.09 - (now)*, Ph.D. student, Suzhou Institute for Advanced Research, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), Suzhou, China
-- *2018.09 - 2021.06*, Master, School of Biological Science and Medical Engineering, Southeast University ([SEU](https://bme.seu.edu.cn)), Nanjing, China
-- *2016.09 - 2018.06*, Undergraduate, School of Biological Science and Medical Engineering, Southeast University ([SEU](https://bme.seu.edu.cn)), Nanjing, China
-- *2014.09 - 2016.06*, Undergraduate, Chien-Shiung Wu College (honors college), Southeast University ([SEU](https://wjx.seu.edu.cn)), Nanjing, China
+- *2021.09 - (now)*, Ph.D. student, Biomedical Engineering, University of Science and Technology of China [USTC]
+- *2018.09 - 2021.06*, Master, Pattern Recognition and Intelligent Systems, Tianjin University [TJU]
+- *2014.09 - 2018.06*, Bachlor, Automation, Shandong University [SDU]
+
 
 # 💬 Professional Services
 
 *Journal Reviewers:*
 
-- IEEE Transactions on Medical Imaging
-- ACM Transactions on Computing for Healthcare
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- Computerized Medical Imaging and Graphics (CMIG)
 
 *Conference Reviewers:*
 
 - International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2025)
-- International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2024)
-- International Conference on Bioinformatics and Biomedicine (BIBM 2024)
 - IEEE International Symposium on Biomedical Imaging (ISBI 2025)
 
-*Teaching Assistant:*
 
-- *2022 Fall*, USTC, Medical Image Computing (BMED6208P.01_152261)
-- *2023 Fall*, USTC, Medical Image Computing (BMED6208P.01_152261)
 
-# 💬 Invited Talks
-
-- *2024.10*, **Benchmarking Fairness in Medical Foundation Models.** IEEE International Conference on Universal Village (IEEE UV 2024)
-
-# 💻 Internships
-
-- *2023.06 - 2023.10*, Fuwai Hospital, Chinese Academy of Medical Sciences, Beijing, China
