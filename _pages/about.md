@@ -44,7 +44,7 @@ redirect_from:
 
 ### Medical Tubular Structure Segmentation
 
-- `Med. Image Anal. 2025` [Skeleton2Mask: Skeleton-Supervised Airway Segmentation](https://www.sciencedirect.com/science/article/pii/S0956566322008120)**Mingyue Zhao**, Han Li, Di Zhang, Xiuxiu Zhou, Li Fan, Xiaolan Qiu, Shiyuan Liu, S. Kevin Zhou✉️ &nbsp;&nbsp;[[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0956566322008120)]
+- `Med. Image Anal. 2025` [Skeleton2Mask: Skeleton-Supervised Airway Segmentation](https://www.sciencedirect.com/science/article/pii/S0956566322008120)**Mingyue Zhao**, Han Li, Di Zhang, Xiuxiu Zhou, Li Fan✉️, Xiaolan Qiu, Shiyuan Liu, S. Kevin Zhou✉️ &nbsp;&nbsp;[[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0956566322008120)]
 - `ISBI 2025` [ExpTopo:Explicit Topological Modeling for Bronchus Segmentation](https://ieeexplore.ieee.org/document/10980891)**Mingyue Zhao**, Xiaolan Qiu, S. Kevin Zhou✉️ &nbsp;&nbsp;[[IEEE](https://ieeexplore.ieee.org/document/10980891)]
 
 ### Algorithm Fairness
