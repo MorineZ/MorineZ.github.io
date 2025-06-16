@@ -40,7 +40,7 @@ redirect_from:
 
 - `MICCAI 2024` [Hierarchical multiple instance learning for COPD grading with relatively specific similarity](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_50) Hao Zhang, **Mingyue Zhao**,  Mingzhu Liu, Jiejun Luo, Yu Guan, Jin Zhang, Yi Xia, Di Zhang, Xiuxiu Zhou, Li Fan, Shiyuan Liu and S. Kevin Zhou✉️ &nbsp;&nbsp;[[Springer](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_50)]
 - `Radiology: Artificial Intelligence` [Single Inspiratory Chest CT-based Generative Deep Learning Models to Evaluate Functional Small Airway Disease](https://openreview.net/pdf?id=8245ExLB4I)
-  **Di Zhang\***, **Mingyue Zhao\***, Li Fan, S. Kevin Zhou and Shiyuan Liu✉️ &nbsp;&nbsp;[[OpenReview](https://openreview.net/pdf?id=8245ExLB4I)]
+  **Di Zhang\***, **Mingyue Zhao\***, Xiuxiu Zhou, Yiwei Li,..., Li Fan, S. Kevin Zhou and Shiyuan Liu✉️ &nbsp;&nbsp;[[OpenReview](https://openreview.net/pdf?id=8245ExLB4I)]
 
 ### Medical Tubular Structure Segmentation
 
