@@ -18,8 +18,8 @@ redirect_from:
 
 # 😊 About Me
 
-- I am a fourth-year Ph.D candidate at School of Biomedical Engineering, University of Science and Technology of China ([USTC](http://bme.ustc.edu.cn/)), supervised by Prof. [S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html).
-- I received my bachelor degree and master degree from Shandong University ([SDU](https://www.sdu.edu.cn)) and Tianjin University ([TJU](https://www.tju.edu.cn)) in 2018 and 2021, respectively.
+- I am a fourth-year Ph.D candidate at School of Biomedical Engineering, [University of Science and Technology of China (USTC)](http://bme.ustc.edu.cn/), supervised by Prof. [S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html).
+- I received my bachelor degree and master degree from [Shandong University (SDU)](https://www.sdu.edu.cn) and [Tianjin University (TJU)](https://www.tju.edu.cn) in 2018 and 2021, respectively.
 - My research interests mainly focus on **Medical image analysis, Label Efficient Learning, Medical tubular structure segmentation, Intelligent Diagnosis of Pulmonary Diseases**.
 
 # 🔥 News
