@@ -39,30 +39,30 @@ redirect_from:
 
 ### COPD Diagnosis
 
-- A self-supervised framework for emphysema anomaly detection and staging in computed tomography scans
+- A self-supervised framework for emphysema anomaly detection and staging in computed tomography scans. <br>
   Xiang zhang, **Mingyue Zhao**, ..., Li Fan, S. Kevin Zhou and Shiyuan Liu✉️
   Patterns (Cell Press), 2025, In press.
-- [Single Inspiratory Chest CT-based Generative Deep Learning Models to Evaluate Functional Small Airway Disease](https://openreview.net/pdf?id=8245ExLB4I)
-  **Di Zhang\***, **Mingyue Zhao\***, Xiuxiu Zhou, Yiwei Li,..., Li Fan, S. Kevin Zhou✉️ and Shiyuan Liu✉️ &nbsp;&nbsp;[[Paper](https://pubs.rsna.org/doi/10.1148/ryai.240680)]
+- [Single Inspiratory Chest CT-based Generative Deep Learning Models to Evaluate Functional Small Airway Disease](https://openreview.net/pdf?id=8245ExLB4I) <br>
+  **Di Zhang\***, **Mingyue Zhao\***, Xiuxiu Zhou, Yiwei Li,..., Li Fan, S. Kevin Zhou✉️ and Shiyuan Liu✉️ &nbsp;&nbsp;[[Paper](https://pubs.rsna.org/doi/10.1148/ryai.240680)] <br>
   Radiology: Artificial Intelligence, 2025, Accepted.
-- [Hierarchical multiple instance learning for COPD grading with relatively specific similarity](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_50) Hao Zhang, **Mingyue Zhao**,  Mingzhu Liu, Jiejun Luo, Yu Guan, Jin Zhang, Yi Xia, Di Zhang, Xiuxiu Zhou, Li Fan, Shiyuan Liu and S. Kevin Zhou✉️ &nbsp;&nbsp;[[Springer](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_50)]
+- [Hierarchical multiple instance learning for COPD grading with relatively specific similarity](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_50) <br> Hao Zhang, **Mingyue Zhao**,  Mingzhu Liu, Jiejun Luo, Yu Guan, Jin Zhang, Yi Xia, Di Zhang, Xiuxiu Zhou, Li Fan, Shiyuan Liu and S. Kevin Zhou✉️ &nbsp;&nbsp;[[Springer](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_50)] <br>
 Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024.
 
 ### Medical Tubular Structure Segmentation
 
-- [Skeleton2Mask: Skeleton-Supervised Airway Segmentation](https://www.sciencedirect.com/science/article/pii/S0956566322008120) **Mingyue Zhao**, Han Li, Di Zhang, Xiuxiu Zhou, Li Fan✉️, Xiaolan Qiu, Shiyuan Liu and S. Kevin Zhou✉️ &nbsp;&nbsp;[[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0956566322008120)]
+- [Skeleton2Mask: Skeleton-Supervised Airway Segmentation](https://www.sciencedirect.com/science/article/pii/S0956566322008120) <br> **Mingyue Zhao**, Han Li, Di Zhang, Xiuxiu Zhou, Li Fan✉️, Xiaolan Qiu, Shiyuan Liu and S. Kevin Zhou✉️ &nbsp;&nbsp;[[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0956566322008120)] <br>
 Medical Image Analysis, 2025.
-- [ExpTopo:Explicit Topological Modeling for Bronchus Segmentation](https://ieeexplore.ieee.org/document/10980891) **Mingyue Zhao**, Xiaolan Qiu, S. Kevin Zhou✉️ &nbsp;&nbsp;[[IEEE](https://ieeexplore.ieee.org/document/10980891)]
+- [ExpTopo:Explicit Topological Modeling for Bronchus Segmentation](https://ieeexplore.ieee.org/document/10980891) <br> **Mingyue Zhao**, Xiaolan Qiu, S. Kevin Zhou✉️ &nbsp;&nbsp;[[IEEE](https://ieeexplore.ieee.org/document/10980891)] <br>
 IEEE International Symposium on Biomedical Imaging (ISBI), 2025.
 
 ### Algorithm Fairness
 
-- [Addressing Fairness Issues in Deep Learning-Based Medical Image Analysis: A Systematic Review](https://www.nature.com/articles/s41746-024-01276-5) Zikang Xu, Jun Li, Qingsong Yao, Han Li, **Mingyue Zhao**, and S. Kevin Zhou✉️ &nbsp;&nbsp;[![](https://img.shields.io/github/stars/XuZikang/FairAdaBN.svg?label=Stars&style=social)](https://github.com/XuZikang/Awesome-MedIA-Fairness)[[code](https://github.com/XuZikang/Awesome-MedIA-Fairness)][[Nature](https://www.nature.com/articles/s41746-024-01276-5)]
+- [Addressing Fairness Issues in Deep Learning-Based Medical Image Analysis: A Systematic Review](https://www.nature.com/articles/s41746-024-01276-5) <br> Zikang Xu, Jun Li, Qingsong Yao, Han Li, **Mingyue Zhao**, and S. Kevin Zhou✉️ &nbsp;&nbsp;[![](https://img.shields.io/github/stars/XuZikang/FairAdaBN.svg?label=Stars&style=social)](https://github.com/XuZikang/Awesome-MedIA-Fairness)[[code](https://github.com/XuZikang/Awesome-MedIA-Fairness)][[Nature](https://www.nature.com/articles/s41746-024-01276-5)] <br>
 npj Digital Medicine. 2024
 
 ### 3D Reconstruction
 
-- [3DGR-CAR: Coronary Artery Reconstruction from Ultra-sparse 2D X-Ray Views with a 3D Gaussians Representation](https://link.springer.com/chapter/10.1007/978-3-031-72104-5_2) Xueming Fu, Yingtai Li, Fenghe Tang, Jun Li, **Mingyue Zhao**, Gao-Jun Teng and S. Kevin Zhou✉️ &nbsp;&nbsp;[[Springer](https://link.springer.com/chapter/10.1007/978-3-031-72104-5_2)]
+- [3DGR-CAR: Coronary Artery Reconstruction from Ultra-sparse 2D X-Ray Views with a 3D Gaussians Representation](https://link.springer.com/chapter/10.1007/978-3-031-72104-5_2) <br> Xueming Fu, Yingtai Li, Fenghe Tang, Jun Li, **Mingyue Zhao**, Gao-Jun Teng and S. Kevin Zhou✉️ &nbsp;&nbsp;[[Springer](https://link.springer.com/chapter/10.1007/978-3-031-72104-5_2)] <br>
 Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024.
 
 # 🎖 Honors and Awards
