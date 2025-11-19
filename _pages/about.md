@@ -20,24 +20,24 @@ redirect_from:
 
 - I am a fourth-year Ph.D candidate at School of Biomedical Engineering, [University of Science and Technology of China (USTC)](http://bme.ustc.edu.cn/), supervised by Prof. [S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html) (Fellow of IEEE,NAI,AIMBE,MICCAI).
 - I received my bachelor degree and master degree from [Shandong University (SDU)](https://www.sdu.edu.cn) and [Tianjin University (TJU)](https://www.tju.edu.cn) in 2018 and 2021, respectively.
-- My research interests mainly focus on **Medical image analysis, Label Efficient Learning, Medical tubular structure segmentation, Intelligent Diagnosis of Pulmonary Diseases**.
+- Research focus: **Medical image analysis, Label Efficient Learning, Medical tubular structure segmentation, Intelligent Diagnosis of Pulmonary Diseases**.
 
 # 🔥 News
 
 <!-- - <span style="color:red;">I am seeking for postdoctoral positions in the field of medical image analysis starting in winter 2025. If you have interest in my research, please feel free to contact me</span>. -->
 
-- *2025.10*: &nbsp; 🥳 One paper accepted to **Patterns (Cell Press)**.
-- *2025.06*: &nbsp; 🥳 One paper accepted to **Medical Image Analysis (MIA)**.
-- *2025.06*: &nbsp; 🥳 One paper accepted to **Radiology Artificial Intelligence**.
-- *2024.12*: &nbsp; 🥳 One paper accepted to **IEEE International Symposium on Biomedical Imaging (ISBI) 2025**.
-- *2024.10*: &nbsp; 🥳 Two papers accepted to **Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2024**.
-- *2024.10*: &nbsp; 🥳 One paper accepted to **npj Digital Medicine**.
+- *2025.10*: &nbsp; 🥳 One paper has been accepted by **Patterns (Cell Press)**.
+- *2025.06*: &nbsp; 🥳 One paper has been accepted by **Medical Image Analysis (MIA)**.
+- *2025.06*: &nbsp; 🥳 One paper has been accepted by **Radiology Artificial Intelligence**.
+- *2024.12*: &nbsp; 🥳 One paper has been accepted by **IEEE International Symposium on Biomedical Imaging (ISBI) 2025**.
+- *2024.10*: &nbsp; 🥳 Two papers have been accepted by **Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2024**.
+- *2024.10*: &nbsp; 🥳 One paper has been accepted by **npj Digital Medicine**.
 
 # 📝 Publications
 
 (Selected publications, `*` indicates equal contribution and ✉️ represents corresponding author.)
 
-### COPD Diagnosis
+### 🎯 COPD Diagnosis
 
 - A self-supervised framework for emphysema anomaly detection and staging in computed tomography scans. <br>
   Xiang zhang, **Mingyue Zhao**, ..., Li Fan, S. Kevin Zhou and Shiyuan Liu✉️
@@ -48,24 +48,24 @@ redirect_from:
 - [Hierarchical multiple instance learning for COPD grading with relatively specific similarity](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_50) <br> Hao Zhang, **Mingyue Zhao**,  Mingzhu Liu, Jiejun Luo, Yu Guan, Jin Zhang, Yi Xia, Di Zhang, Xiuxiu Zhou, Li Fan, Shiyuan Liu and S. Kevin Zhou✉️ &nbsp;&nbsp;[[Springer](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_50)] <br>
 Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024.
 
-### Medical Tubular Structure Segmentation
+### 🎯 Medical Tubular Structure Segmentation
 
 - [Skeleton2Mask: Skeleton-Supervised Airway Segmentation](https://www.sciencedirect.com/science/article/pii/S0956566322008120) <br> **Mingyue Zhao**, Han Li, Di Zhang, Xiuxiu Zhou, Li Fan✉️, Xiaolan Qiu, Shiyuan Liu and S. Kevin Zhou✉️ &nbsp;&nbsp;[[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0956566322008120)] <br>
 Medical Image Analysis, 2025.
 - [ExpTopo:Explicit Topological Modeling for Bronchus Segmentation](https://ieeexplore.ieee.org/document/10980891) <br> **Mingyue Zhao**, Xiaolan Qiu, S. Kevin Zhou✉️ &nbsp;&nbsp;[[IEEE](https://ieeexplore.ieee.org/document/10980891)] <br>
 IEEE International Symposium on Biomedical Imaging (ISBI), 2025.
 
-### Algorithm Fairness
+### 🎯 Algorithm Fairness
 
 - [Addressing Fairness Issues in Deep Learning-Based Medical Image Analysis: A Systematic Review](https://www.nature.com/articles/s41746-024-01276-5) <br> Zikang Xu, Jun Li, Qingsong Yao, Han Li, **Mingyue Zhao**, and S. Kevin Zhou✉️ &nbsp;&nbsp;[![](https://img.shields.io/github/stars/XuZikang/FairAdaBN.svg?label=Stars&style=social)](https://github.com/XuZikang/Awesome-MedIA-Fairness)[[code](https://github.com/XuZikang/Awesome-MedIA-Fairness)][[Nature](https://www.nature.com/articles/s41746-024-01276-5)] <br>
 npj Digital Medicine. 2024
 
-### 3D Reconstruction
+### 🎯 3D Reconstruction
 
 - [3DGR-CAR: Coronary Artery Reconstruction from Ultra-sparse 2D X-Ray Views with a 3D Gaussians Representation](https://link.springer.com/chapter/10.1007/978-3-031-72104-5_2) <br> Xueming Fu, Yingtai Li, Fenghe Tang, Jun Li, **Mingyue Zhao**, Gao-Jun Teng and S. Kevin Zhou✉️ &nbsp;&nbsp;[[Springer](https://link.springer.com/chapter/10.1007/978-3-031-72104-5_2)] <br>
 Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024.
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 
 - *2025*: Outstanding Graduate of Anhui Province
 - *2025*: Outstanding Graduate of the University of Science and Technology of China (USTC)
